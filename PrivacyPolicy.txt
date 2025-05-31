@@ -1,0 +1,13 @@
+Privacy Policy
+
+This app does not collect, use, store, or share any personal data.
+
+    No personal information is collected.
+
+    No analytics or usage data is recorded.
+
+    No data is transmitted off the device.
+
+    No third parties have access to user data.
+
+The app operates entirely on-device and does not interact with any external servers.
